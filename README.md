@@ -8,7 +8,7 @@
 
 🌱 I’m currently learning **Serverless and AWS with Node**
 
-👨‍💻 All of my projects are available at [jeffneuberger.dev](https://www.jeffneuberger.dev)
+👨‍💻 All of my projects are available at [jeff-neuberger.netlify.app](https://jeff-neuberger.netlify.app/)
 
 💬 Ask me about **JavaScript, Node.js, React, Teaching, Learning Strategies**
 
